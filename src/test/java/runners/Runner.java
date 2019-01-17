@@ -9,8 +9,8 @@ import org.junit.runner.RunWith;
         plugin ="html:target/cucumber",
         features = "src/test/resources/features",
         glue="steps",
-        tags="@amazon",
-        dryRun=false
+        tags="@dataTables",
+        dryRun=true
 )
 
 

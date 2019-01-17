@@ -1,4 +1,4 @@
-@amazon
+
 Feature: Amazon Title
 
 
