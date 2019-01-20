@@ -56,6 +56,6 @@ public WebElement lastNameInput;
     public WebElement searchCreatedUser;
 
 
-    @FindBy (xpath = "//table[@id='example']//tr[@id='row_58']//td[@class='sorting_1']")
+    @FindBy (xpath = "//table//td[@class='sorting_1']")
     public WebElement nameOnTheList;
 }
